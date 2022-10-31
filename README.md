@@ -1,11 +1,28 @@
-## Available Scripts
+# Random User Generator
+In this my project I fetched the data that contains random user information from a free API
+I fullfilled trigger process with button.And I showed the data to user using react bootstrap card structure
+## Live
 
+[Random User Generator](#)
+ 
+## Demo
+![Random User Generator](Animation.gif)
+
+## Installation
 In the project directory, you can run:
 
-### `yarn install` and `yarn start`
-
+```sh
+yarn install
+yarn start
+```
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## Tech
+- React
+- React Bootstrap
+- React Icons
+- Axios
+- Random API
