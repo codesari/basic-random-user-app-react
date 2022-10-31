@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/basic-random-user-generator-react/static/css/main.6c07417c.css",
+    "main.js": "/basic-random-user-generator-react/static/js/main.d6441637.js",
+    "static/media/logo.png": "/basic-random-user-generator-react/static/media/logo.96ad5d98169451e2c8cc.png",
+    "index.html": "/basic-random-user-generator-react/index.html",
+    "main.6c07417c.css.map": "/basic-random-user-generator-react/static/css/main.6c07417c.css.map",
+    "main.d6441637.js.map": "/basic-random-user-generator-react/static/js/main.d6441637.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c07417c.css",
+    "static/js/main.d6441637.js"
+  ]
+}
