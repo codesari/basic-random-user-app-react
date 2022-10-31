@@ -3,10 +3,10 @@ In this my project I fetched the data that contains random user information from
 I fullfilled trigger process with button.And I showed the data to user using react bootstrap card structure
 ## Live
 
-[Random User Generator](#)
+[Random User Generator](https://codesari.github.io/basic-random-user-generator-react/)
  
 ## Demo
-![Random User Generator](Animation.gif)
+![Random User Generator Gif](rug.gif)
 
 ## Installation
 In the project directory, you can run:
