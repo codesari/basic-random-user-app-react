@@ -6,7 +6,7 @@ I fullfilled trigger process with button.And I showed the data to user using rea
 [Random User Generator](https://codesari.github.io/basic-random-user-generator-react/)
  
 ## Demo
-![Random User Generator Gif](rug.gif)
+![Random User Generator Gif](./rug.gif)
 
 ## Installation
 In the project directory, you can run:
